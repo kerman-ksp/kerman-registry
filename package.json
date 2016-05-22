@@ -1,0 +1,19 @@
+{
+  "name": "kerman-registry",
+  "version": "0.0.1",
+  "description": "Kerman Package Manager registry",
+  "author": "Anton Prilepskiy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerman-ksp/kerman-registry"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/kerman-ksp/kerman-registry/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
